@@ -1,6 +1,4 @@
 function [ idx_subset, new_idx ] = resampleindices( fulllengthdata, fulllengthindices, nplot, pc)
-%UNTITLED Summary of this function goes here
-%   Detailed explanation goes here
 
     if nplot == 'auto',
         
